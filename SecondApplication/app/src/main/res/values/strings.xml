@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Second Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="weight_lbs">Weight (lbs)</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="set_weight">Set Weight</string>
+    <string name="weight">Weight</string>
+    <string name="drink_size">Drink Size:</string>
+    <string name="Alcohol">Alcohol %:</string>
+    <string name="reset">Reset</string>
+    <string name="add_drink">Add Drink</string>
+    <string name="drink2"># Drinks :0</string>
+    <string name="BAC">BAC Level :0.000</string>
+    <string name="status">Status</string>
+    <string name="safe">You Are Safe</string>
+</resources>

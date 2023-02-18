@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">In Class 2</string>
+    <string name="button_1">5% Discount</string>
+    <string name="button_2">10% Discount</string>
+    <string name="button_3">15% Discount</string>
+    <string name="button_4">20% Discount</string>
+    <string name="button_5">50% Discount</string>
+    <string name="button_6">Clear</string>
+    <string name="title_activity_radio">RadioActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
