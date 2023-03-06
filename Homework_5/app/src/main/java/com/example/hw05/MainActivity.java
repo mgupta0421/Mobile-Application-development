@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements CitiesFragment.Ci
     @Override
     public void moreDetail(DataService.City city) {
         getSupportFragmentManager().beginTransaction()
-                .replace(R.id.rootView, new ForecastFragment())
+                .replace(R.id.rootView, ForecastFragment.newInstance(city))
                 .addToBackStack(null)
                 .commit();
     }
