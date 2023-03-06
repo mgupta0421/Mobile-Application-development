@@ -96,7 +96,7 @@ public class WeatherFragment extends Fragment {
                 .build(); */
 
         HttpUrl url = HttpUrl.parse("https://api.openweathermap.org/data/2.5/weather").newBuilder()
-                .addQueryParameter("appid", "dc2912c5363d9ebec082bab802ea3108")
+                .addQueryParameter("appid", "TYPE YOUR KEY")
               //  .addQueryParameter("units", "imperial")
                 .addQueryParameter("lon", String.valueOf(mParam1.getLon()))
                 .addQueryParameter("lat", String.valueOf(mParam1.getLat()))
