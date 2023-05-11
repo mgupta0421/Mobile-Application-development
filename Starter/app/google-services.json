@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619439801768",
+    "project_id": "lastexam-2177f",
+    "storage_bucket": "lastexam-2177f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619439801768:android:ddd366319e15a9c9aa499d",
+        "android_client_info": {
+          "package_name": "edu.uncc.finalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619439801768-ntva7qr6vc4ej2dkc3jr5utt52p1erlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZqxmXOVlwh-O43YiprtQHDRgWjxi0cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619439801768-ntva7qr6vc4ej2dkc3jr5utt52p1erlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
