@@ -1,6 +1,6 @@
 # Mobile-Application-Development
-**Overview**
-"Mobile-Application-Development" is an Android application developed using Java. It features a clean user interface, and efficient performance, and incorporates Android's best practices.
+**Overview** <br />
+Mobile-Application-Development is an Android application developed using Java. It features a clean user interface, and efficient performance, and incorporates Android's best practices.
 
 **Features**
 * User Authentication: Secure login and registration.
